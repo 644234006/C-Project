@@ -1,3 +1,6 @@
+# ** reversed **
+
+```
 #include <stdio.h>
 
 int main()
@@ -20,3 +23,4 @@ int main()
     a[i]='\0';
     printf("\n reversed: %s",a);
 }
+```
